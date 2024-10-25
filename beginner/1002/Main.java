@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner myObj = new Scanner(System.in);
+        double n = 3.14159;
+        double R = myObj.nextDouble();
 
-        int A = myObj.nextInt();
-        int B = myObj.nextInt();
-        int X = A + B;
+        double A = n * (R * R);
 
-        System.out.println("X = " + X);
+        System.out.printf("A=%.4f\n", A);
     }
 }
