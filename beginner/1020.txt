@@ -11,9 +11,10 @@ public class Main {
         int months = days / 30;
         days %= 30;
         
-        System.out.println(years + " year(s)");
-        System.out.println(months + " month(s)");
-        System.out.println(days + " day(s)");
+        // Ensure output matches expected Beecrowd format
+        System.out.printf("%d year(s)%n", years);
+        System.out.printf("%d month(s)%n", months);
+        System.out.printf("%d day(s)%n", days);
         
         sc.close();
     }
