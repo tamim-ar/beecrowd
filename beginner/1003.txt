@@ -17,12 +17,7 @@ public class Main {
          * Escriba su solución aquí
          */
          
-         Scanner sc = new Scanner(System.in);
-         int A = sc.nextInt();
-         int B = sc.nextInt();
          
-         System.out.println("PROD = "+ A*B);
- 
     }
  
 }
