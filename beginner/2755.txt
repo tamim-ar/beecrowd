@@ -4,14 +4,10 @@ public class Main {
  
     public static void main(String[] args) throws IOException {
 
-             System.out.printf("\"Ro'b'er\tto\\/\"\n");
+    System.out.printf("\"Ro'b'er\tto\\/\"\n");
     System.out.printf("(._.) ( l: ) ( .-. ) ( :l ) (._.)\n");
     System.out.printf("(^_-) (-_-) (-_^)\n");
     System.out.printf("(\"_\") ('.')\n");
-        // System.out.println("\"Ro'b'er        to\\/\"");
-        // System.out.println("(._.) ( l: ) ( .-. ) ( :l ) (._.)");
-        // System.out.println("(^_-) (-_-) (-_^)");
-        // System.out.println("(\"_\") ('.')");
     }
 
 }
