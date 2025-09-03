@@ -5,9 +5,9 @@
   
   ---
   
-  ![Beecrowd Progress](https://img.shields.io/badge/Solved-110%2F2411%20(4.56%25)-323232?style=flat-square)
+  ![Beecrowd Progress](https://img.shields.io/badge/Solved-112%2F2411%20(4.65%25)-323232?style=flat-square)
   <br/>
-  ![Python](https://img.shields.io/badge/Python%203-104%20solutions-60A4FB?style=flat-square&logo=python)
+  ![Python](https://img.shields.io/badge/Python%203-106%20solutions-60A4FB?style=flat-square&logo=python)
   ![Java](https://img.shields.io/badge/Java-23%20solutions-4298E2?style=flat-square&logo=java)
   ![JavaScript](https://img.shields.io/badge/JavaScript-2%20solutions-F7DF1E?style=flat-square&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/TypeScript-0%20solutions-3178C6?style=flat-square&logo=typescript)
