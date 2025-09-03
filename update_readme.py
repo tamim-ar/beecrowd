@@ -1,8 +1,7 @@
 import os
 import re
 
-# ===== CONFIG =====
-TOTAL_PROBLEMS = 2411   # Total problems on beecrowd
+TOTAL_PROBLEMS = 2411  
 SOLUTIONS_FOLDER = "solutions"
 
 BADGE_STYLE = "flat-square"
@@ -28,7 +27,6 @@ LANGUAGE_EXTENSIONS = {
     "C#": [".cs"],
     "PHP": [".php"],
 }
-# ==================
 
 def count_solutions():
     if not os.path.exists(SOLUTIONS_FOLDER):

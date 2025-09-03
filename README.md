@@ -5,15 +5,15 @@
   
   ---
   
-  ![Beecrowd Progress](https://img.shields.io/badge/Solved-105%2F2411%20(4.36%25)-323232?style=flat-square)
+  ![Beecrowd Progress](https://img.shields.io/badge/Solved-109%2F2411%20(4.52%25)-323232?style=flat-square)
   <br/>
-  ![Python](https://img.shields.io/badge/Python%203-100%20solutions-60A4FB?style=flat-square&logo=python)
+  ![Python](https://img.shields.io/badge/Python%203-103%20solutions-60A4FB?style=flat-square&logo=python)
   ![Java](https://img.shields.io/badge/Java-23%20solutions-4298E2?style=flat-square&logo=java)
   ![JavaScript](https://img.shields.io/badge/JavaScript-2%20solutions-F7DF1E?style=flat-square&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/TypeScript-0%20solutions-3178C6?style=flat-square&logo=typescript)
   <br/>
   ![C](https://img.shields.io/badge/C-0%20solutions-555555?style=flat-square&logo=c)
-  ![C++](https://img.shields.io/badge/C%2B%2B-0%20solutions-00599C?style=flat-square&logo=cplusplus)
+  ![C++](https://img.shields.io/badge/C%2B%2B-1%20solutions-00599C?style=flat-square&logo=cplusplus)
   ![C#](https://img.shields.io/badge/C%23-0%20solutions-9B4F96?style=flat-square&logo=csharp)
   ![PHP](https://img.shields.io/badge/PHP-0%20solutions-777BB4?style=flat-square&logo=php)
   
